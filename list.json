@@ -1,0 +1,16 @@
+{
+  "codes": {
+    "RERELEASED!": {
+      "Tokens": 1000,
+      "UniversalCoins": 30
+    },
+    "WEAREBACKNOW!": {
+      "Tokens": 750,
+      "UniversalCoins": 30
+    },
+    "SORRYFORMAYHEM!": {
+      "Tokens": 500,
+      "UniversalCoins": 20
+    }
+  }
+}
