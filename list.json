@@ -14,5 +14,9 @@
   "50LIKES": {
     "Tokens": 1500,
     "UniversalCoins": 60
+  },
+   "SORRYFORBUGS": {
+    "Tokens": 500,
+    "UniversalCoins": 30
   }
 }
