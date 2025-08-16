@@ -18,5 +18,9 @@
    "SORRYFORBUGS": {
     "Tokens": 500,
     "UniversalCoins": 30
+  },
+   "SORRYFORSHUTDOWN": {
+    "Tokens": 500,
+    "UniversalCoins": 30
   }
 }
