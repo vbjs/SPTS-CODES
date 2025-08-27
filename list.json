@@ -1,26 +1,8 @@
 {
-  "RERELEASED!": {
+  "UPDATE1": {
     "Tokens": 1000,
     "UniversalCoins": 30
   },
-  "WEAREBACKNOW!": {
-    "Tokens": 750,
-    "UniversalCoins": 30
-  },
-  "SORRYFORMAYHEM!": {
-    "Tokens": 500,
-    "UniversalCoins": 20
-  },
-  "50LIKES": {
-    "Tokens": 1500,
-    "UniversalCoins": 60
-  },
-   "SORRYFORBUGS": {
-    "Tokens": 500,
-    "UniversalCoins": 30
-  },
-   "SORRYFORSHUTDOWN": {
-    "Tokens": 500,
-    "UniversalCoins": 30
-  }
+  "SORRYFORDELAY1": {
+    "UniversalCoins": 300
 }
