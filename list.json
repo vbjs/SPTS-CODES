@@ -5,5 +5,9 @@
   },
   "SORRYFORDELAY1": {
     "UniversalCoins": 300
+  },
+  "BUGFIXES1": {
+    "Tokens": 50000,
+    "UniversalCoins": 90
   }
 }
