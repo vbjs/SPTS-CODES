@@ -9,5 +9,9 @@
   "BUGFIXES1": {
     "Tokens": 50000,
     "UniversalCoins": 90
+  },
+  "BUGFIXES1!": {
+    "Tokens": 100000,
+    "UniversalCoins": 180
   }
 }
