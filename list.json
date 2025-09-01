@@ -13,5 +13,9 @@
   "BUGFIXES1!": {
     "Tokens": 100000,
     "UniversalCoins": 180
+  },
+ "TESTINGCODE!": {
+    "Tokens": 1000000,
+    "UniversalCoins": 10000
   }
 }
